@@ -1,6 +1,6 @@
 {
   "name": "EnergyFi Menu",
-  "timestamp": "2023-04-11T07:26:57.950Z",
+  "timestamp": "2023-04-11T11:17:59.978Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -140,6 +140,30 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "address": "0xb2791027021bCC6C41485A95Fb40eC3C5a5A9B14",
+      "chainId": 80001,
+      "name": "Twin Token",
+      "symbol": "TWT",
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg",
+      "decimals": 18
+    },
+    {
+      "address": "0x92DAFBf64e40e4777Cb73b6f76356a75E4D6157F",
+      "chainId": 80001,
+      "name": "USDC Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg",
+      "decimals": 6
+    },
+    {
+      "address": "0x2D513351f026521Dd90AFbd00781C436227F4632",
+      "chainId": 80001,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg",
+      "decimals": 18
     }
   ]
 }

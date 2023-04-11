@@ -1,0 +1,145 @@
+{
+  "name": "EnergyFi Menu",
+  "timestamp": "2023-04-11T07:26:57.950Z",
+  "version": {
+    "major": 24,
+    "minor": 30,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg",
+  "keywords": [
+    "energyfi",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "chainId": 1284,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg"
+    },
+    {
+      "address": "0xE6cDD3a275c976BcA5d3De4F96c7514B899f0434",
+      "chainId": 1284,
+      "name": "Echain Token",
+      "symbol": "ECT",
+      "decimals": 9,
+      "logoURI": "https://github.com/ujjwalsahayatwork/icons/blob/main/tokens/echain.png?raw=true"
+    },
+    {
+      "address": "0xA423E7eEB60547d9C7b65005477b63ae7CE67E62",
+      "chainId": 1284,
+      "name": "Energyfi Token",
+      "symbol": "EFT",
+      "decimals": 18,
+      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
+    },
+    {
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "chainId": 1284,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/usdc.jpg"
+    },
+    {
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+      "chainId": 1284,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/usdt.jpg"
+    },
+    {
+      "name": "Wrapped Glimmer",
+      "chainId": 1284,
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+      "chainId": 1284,
+      "name": "xcDOT Token",
+      "symbol": "xcDOT",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/xcDOT.png"
+    },
+    {
+      "address": "0x4A58260Cece4fe85641a6c706E70573a9A71F395",
+      "chainId": 1284,
+      "name": "EnergyfiBar",
+      "symbol": "xEFT",
+      "decimals": 18,
+      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xE55f16d23Cc8B1813ae44093a555AFa498bb8dfe",
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+    },
+    {
+      "address": "0x9f6e0E615585a8248dE15362393565415E71DE3D",
+      "chainId": 1287,
+      "name": "EnergyFi",
+      "symbol": "EFT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg"
+    },
+    {
+      "name": "Custom ERC20 Token2",
+      "address": "0x81Eeaf8F98e9DfB48923Cab9d234013FCd8C4b8D",
+      "symbol": "GLD",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "name": "Custom ERC20 Token3",
+      "address": "0x1A4A94a202b97cE490E867634b2535815B213349",
+      "symbol": "SLD",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "name": "Custom ERC20 Token1",
+      "address": "0x1056c786DDa6F94483b3fD06d2C7FC9b7477cA94",
+      "symbol": "TWC",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xC53ca2e8A0d26bd498D38064e40bB7F712180a9B",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "address": "0x05Bf07102EfEbb83Ba5F475fB18F843E8736B6E8",
+      "chainId": 1287,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    },
+    {
+      "name": "Wrapped Glimmer",
+      "address": "0xA5fd1F6e7980Fd5cA9d062a762030D449990BBBf",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    }
+  ]
+}
